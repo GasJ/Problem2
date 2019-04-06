@@ -1,0 +1,127 @@
+The philosopher 1 pick up forks
+
+The philosopher 1 eat (1 times)
+
+The philosopher 3 pick up forks
+
+The philosopher 3 eat (1 times)
+
+The philosopher 1 put down forks
+
+The philosopher 1 pick up forks
+
+The philosopher 1 eat (2 times)
+
+The philosopher 5 pick up forks
+
+The philosopher 5 eat (1 times)
+
+The philosopher 3 put down forks
+
+The philosopher 3 pick up forks
+
+The philosopher 3 eat (2 times)
+
+The philosopher 1 put down forks
+
+The philosopher 5 put down forks
+
+The philosopher 5 pick up forks
+
+The philosopher 5 eat (2 times)
+
+The philosopher 1 pick up forks
+
+The philosopher 1 eat (3 times)
+
+The philosopher 3 put down forks
+
+The philosopher 3 pick up forks
+
+The philosopher 3 eat (3 times)
+
+The philosopher 5 put down forks
+
+The philosopher 1 put down forks
+
+The philosopher 1 pick up forks
+
+The philosopher 1 eat (4 times)
+
+The philosopher 3 put down forks
+
+The philosopher 3 pick up forks
+
+The philosopher 3 eat (4 times)
+
+The philosopher 5 pick up forks
+
+The philosopher 5 eat (3 times)
+
+The philosopher 4 pick up forks
+
+The philosopher 4 eat (1 times)
+
+The philosopher 1 put down forks
+
+The philosopher 3 put down forks
+
+The philosopher 2 pick up forks
+
+The philosopher 2 eat (1 times)
+
+The philosopher 5 put down forks
+
+The philosopher 4 put down forks
+
+The philosopher 4 pick up forks
+
+The philosopher 4 eat (2 times)
+
+The philosopher 5 pick up forks
+
+The philosopher 5 eat (4 times)
+
+The philosopher 2 put down forks
+
+The philosopher 2 pick up forks
+
+The philosopher 2 eat (2 times)
+
+The philosopher 4 put down forks
+
+The philosopher 5 put down forks
+
+The philosopher 4 pick up forks
+
+The philosopher 4 eat (3 times)
+
+The philosopher 2 put down forks
+
+The philosopher 2 pick up forks
+
+The philosopher 2 eat (3 times)
+
+The philosopher 4 put down forks
+
+The philosopher 4 pick up forks
+
+The philosopher 4 eat (4 times)
+
+The philosopher 2 put down forks
+
+The philosopher 2 pick up forks
+
+The philosopher 2 eat (4 times)
+
+The philosopher 4 put down forks
+
+The philosopher 2 put down forks
+
+
+Report:
+This system avoids the unfortunate and eventually fatal situation
+in which all philosophers are hungry but none is able to acquire both forks.
+Since each holds one fork and refuses to give it up.
+In the system, every philosopher eats less than 5 times,
+which is what we want to see.
